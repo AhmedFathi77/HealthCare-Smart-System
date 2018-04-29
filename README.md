@@ -1,9 +1,9 @@
 # HealthCare-Smart-System
-## Underconstruction
+## Under-construction
 HealthCare Smart System using AVR
 
 ```
-### This not all The sensor will used 
+ 
 
 1 - AVR Atmega32
 2 - HeartBeat Sensor 
@@ -14,3 +14,4 @@ HealthCare Smart System using AVR
 7 - GSM
 
 ```
+### This not all The sensor will used
